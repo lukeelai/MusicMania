@@ -1,2 +1,2 @@
 # MusicMania
-Musical Platformer
+Musical Platformer made with Unity
